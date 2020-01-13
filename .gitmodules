@@ -1,0 +1,6 @@
+[submodule "social-network-web"]
+	path = social-network-web
+	url = https://github.com/denklewer/social-network-web
+[submodule "social-network-controller"]
+	path = social-network-controller
+	url = https://github.com/denklewer/social-network-controller
